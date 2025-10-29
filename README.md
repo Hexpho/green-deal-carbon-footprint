@@ -57,7 +57,7 @@ If this helps your thesis or research:
 ```
 Burmaoğlu, B. (2025). Green Deal Carbon Footprint (Colab Notebook). GitHub repository.
 ```
-(Replace with your preferred citation style.)
+
 
 ## License
 MIT — see `LICENSE`.
