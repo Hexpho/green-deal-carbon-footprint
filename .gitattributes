@@ -1,2 +1,2 @@
 # Exclude large Jupyter notebook from language stats
-thesis/Batu_Bachelor_Thesis.ipynb linguist-vendored
+notebooks/green_deal.ipynb linguist-vendored
