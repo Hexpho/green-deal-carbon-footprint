@@ -1,0 +1,8 @@
+IPython
+google-api-python-client
+gradio
+groq
+numpy
+pandas
+pulp
+traceback
